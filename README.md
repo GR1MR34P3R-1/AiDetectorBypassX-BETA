@@ -5,7 +5,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**AiDetectorBypassX (Beta)** is a Python program designed to bypass AI chatbot detectors, including those used for ChatGPT, GPT-3, and even GptZero. This tool allows you to generate content that can evade detection while working seamlessly with various AI detectors.
+AiDetectorBypassX (Beta) is a Python program designed to bypass AI chatbot detectors, including those used for ChatGPT, GPT-3, and even GptZero. This tool allows you to generate content that can evade detection while working seamlessly with various AI detectors.
 
 ## Key Features
 
@@ -95,9 +95,27 @@ python AiDetectorBypassX.py
 
 - Its versatility allows it to seamlessly apply its magical touch to a wide array of AI detection systems, making it the ultimate incantation for preserving your privacy and ensuring discreet communication.
 
+## What's New
+
+- **Spelling and Grammar Checking:** AiDetectorBypassX now incorporates a spelling and grammar checking step using the `language_tool_python` library before further modification.
+
+- **Double Quotes Handling:** The program includes an additional step to replace curly double quotes with straight double quotes for improved formatting.
+
+- **Percentage Calculation Adjustment:** In the new version, the percentage calculation for adjective emphasis has been adjusted to different ranges based on character counts for better results.
+
+- **Improved Content Preservation:** The program has been enhanced to better preserve formatting elements like numbers, abbreviations, and bold text while modifying the content.
+
+- **Privacy Enhancement:** Use AiDetectorBypassX for private communication without detection, ensuring your privacy.
+
+- **Error Handling:** The program includes comprehensive error handling with message boxes to inform users of any issues during text modification.
+
+- **Threaded Execution:** Both versions use threading to perform text modification, allowing the GUI to remain responsive during processing.
+
+- **Compatibility:** AiDetectorBypassX continues to work with various AI detectors, including ChatGPT, GPT-3, and GptZero.
+
 
 ## Future Updates
-**I'm actively working on enhancing **AiDetectorBypassX (Beta)** with the following features for future updates:**
+- I'm actively working on enhancing AiDetectorBypassX (Beta) with the following features for future updates:
 
 - Reorder Sentences: An upcoming update will allow you to reorder sentences within your text, providing more options for content manipulation.
 
