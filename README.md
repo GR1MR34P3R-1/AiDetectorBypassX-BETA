@@ -133,4 +133,4 @@ python AiDetectorBypassX.py
 - This program is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
 
 ## Have a Great Day! 🌟
-- 🌟 Have fun exploring the capabilities of ChatBotTurbo3.5-V2 and enjoy interacting with the Discord bot! If you have any questions or need assistance, don't hesitate to reach out. 😊
+- 🌟 Have fun exploring the capabilities of AiDetectorBypassX-BETA and enjoy interacting with the Discord bot! If you have any questions or need assistance, don't hesitate to reach out. 😊
