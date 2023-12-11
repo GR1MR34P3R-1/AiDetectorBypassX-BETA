@@ -1,7 +1,0 @@
-nltk
-language-tool-python
-selenium
-beautifulsoup4
-spacy
-numpy 
-pandas
