@@ -5,7 +5,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-AiDetectorBypassX (Beta) is a Python program crafted to skillfully navigate through AI chatbot detectors, including those employed by ChatGPT, GPT-3, and GptZero. This tool empowers users to generate content capable of evading detection while seamlessly interacting with various AI detectors.
+AiDetectorBypassX (Beta) is a Python program crafted to skillfully navigate through AI detectors, including those employed by GPTZERO OPENAI, WRITER, CROSSPLAG, COPYLEAKS, ZEROGPT, SAPLING, CONTENTATSCALE. This tool empowers users to generate content capable of evading detection seamlessly.
 
 ## Key Features
 
@@ -13,7 +13,7 @@ AiDetectorBypassX (Beta) is a Python program crafted to skillfully navigate thro
 
 #### Detector Bypass
 
-- **Intelligent Bypass:** AiDetectorBypassX adeptly evades AI chatbot detectors, ensuring undetectable content.
+- **Intelligent Bypass:** AiDetectorBypassX adeptly evades AI detectors, ensuring undetectable content.
 
 #### Text Manipulation
 
@@ -59,7 +59,7 @@ AiDetectorBypassX (Beta) is a Python program crafted to skillfully navigate thro
 ## Usage
 - **Input Text:** Enter the text you wish to bypass AI detector systems in the "Input Text" area.
 
-- **Detector Bypass:** AiDetectorBypassX (Beta) generates content that successfully bypasses AI chatbot detectors, including ChatGPT, GPT-3, and GptZero.
+- **Detector Bypass:** AiDetectorBypassX (Beta) generates content that successfully bypasses AI chatbot detectors, including GPTZERO OPENAI, WRITER, CROSSPLAG, COPYLEAKS, ZEROGPT, SAPLING, CONTENTATSCALE.
 
 - **Bypassed Text:** The content evading detection will display in the "Bypassed Text" area.
 
@@ -89,7 +89,7 @@ AiDetectorBypassX (Beta) is a Python program crafted to skillfully navigate thro
 
 ### Versatile Enchantment
 
-- AiDetectorBypassX seamlessly works with a multitude of AI detectors, including ChatGPT, GPT-3, and GptZero, preserving your privacy and ensuring discreet communication.
+- AiDetectorBypassX seamlessly works with a multitude of AI detectors, including ChatGPT, GPTZERO OPENAI, WRITER, CROSSPLAG, COPYLEAKS, ZEROGPT, SAPLING, CONTENTATSCALE, preserving your privacy and ensuring discreet communication.
 
 ## What's New
 
